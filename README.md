@@ -1,4 +1,4 @@
-# TerraWork OS - 24/7 Architecting & Monetization Engine
+# Sprint OS - 24/7 Programming & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
