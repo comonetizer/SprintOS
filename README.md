@@ -1,4 +1,4 @@
-# AI Monetizer - 24/7 Innovation & Monetization Engine
+# Architect OS - 24/7 Architecting & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
