@@ -1,4 +1,4 @@
-# Architect OS - 24/7 Architecting & Monetization Engine
+# TerraWork OS - 24/7 Architecting & Monetization Engine
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
